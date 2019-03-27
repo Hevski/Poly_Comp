@@ -31,7 +31,7 @@
 
 - A car dealership can have a till, A separate till class can be written then passed in to Dealership so Dealership has all the functionality of till.
 
-- A Car is made up of different components, each component can have its own class which is passed in to the Car as properties.
+- A Car is made up of different components, each component can have its own class which is passed in to the Car as properties. A car has an engine, a car has a steering wheel.
 
 ## What is/are the advantage(s) of using composition?
 
