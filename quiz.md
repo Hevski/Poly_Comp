@@ -35,4 +35,8 @@
 
 ## What is/are the advantage(s) of using composition?
 
-- It helps if you want to make changes to something in the future - makes the program more scalable.  Also if an object is deleted it means all the components don't get deleted with it.
+- It helps if you want to make changes to something in the future - makes the program more scalable.
+
+## When an object is destroyed, what happens to all the objects it is composed of?
+
+- If an object is destroyed it means all the components get destroyed with it.
